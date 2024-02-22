@@ -1,0 +1,9 @@
+{
+    "name": "admin/learn",
+    "autoload": {
+        "classmap": ["Models", "controller/"]
+    },
+    "require": {
+      "ext-json": "*"
+    }
+}
